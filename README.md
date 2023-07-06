@@ -23,7 +23,7 @@
 
 - We are striving to make powerful, user friendly, and safe game mods, cheats, and utilities
 accessable to everyone.
-- We also work with games to defend against cheats with full our support!
+- We also work with games to defend against cheats with our full support!
 
 
 
